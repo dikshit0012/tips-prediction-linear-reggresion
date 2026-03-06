@@ -147,5 +147,5 @@ Possible extensions to this project include:
 
 ## Author
 
-Dikshit 
+Dikshit  
 B.Tech Computer Science Student
